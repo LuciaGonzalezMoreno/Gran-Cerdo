@@ -802,21 +802,17 @@ void mostrar_creditos()
     rlutil:: locate((centrar_en_X("CERDITOS")), posy++);
     rlutil::setBackgroundColor(rlutil::MAGENTA);
     cout << "CERDITOS";
+
     rlutil::setBackgroundColor(rlutil::BLACK);
     rlutil:: locate((centrar_en_X("---------------------")), posy++);
     cout << "---------------------";
+
     rlutil:: locate((centrar_en_X("Maria Lucia Gonzalez Moreno - Legajo 25945")), posy++);
     cout << "Maria Lucia Gonzalez Moreno - Legajo 25945";
-    rlutil:: locate((centrar_en_X("Jorge Martin Vera Orozio - Legajo 26307")), posy++);
-    cout << "Jorge Martin Vera Orozio - Legajo 26307";
-    rlutil:: locate((centrar_en_X("Ivan Carlos Carrieri - Legajo 25845")), posy++);
-    cout << "Ivan Carlos Carrieri - Legajo 25845";
-    rlutil:: locate((centrar_en_X("Rodrigo German Tevez - Legajo 26158")), posy++);
-    cout << "Rodrigo German Tevez - Legajo 26158";
-    rlutil:: locate((centrar_en_X("Rolando Cauda Presali - Legajo 27070")), posy++);
-    cout << "Rolando Cauda Presali - Legajo 27070";
+
     rlutil:: locate((centrar_en_X("---------------------")), posy++);
     cout << "---------------------";
+
     rlutil:: locate((centrar_en_X("ENTER para volver al MENU")), posy+2);
     cout << "ENTER para volver al MENU";
 
