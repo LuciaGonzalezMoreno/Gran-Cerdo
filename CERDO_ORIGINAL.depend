@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1657141683 source:c:\users\lucia\documents\lu\mis documentos\naughty\utn\laboratorio 1\gran cerdo\cerdo_original\funciones_cerdo_original.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"rlutil.h"
+	"funciones_cerdo_original.h"
+
+1656387002 c:\users\lucia\documents\lu\mis documentos\naughty\utn\laboratorio 1\gran cerdo\cerdo_original\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1657141628 c:\users\lucia\documents\lu\mis documentos\naughty\utn\laboratorio 1\gran cerdo\cerdo_original\funciones_cerdo_original.h
+
+1657141683 source:c:\users\lucia\documents\lu\mis documentos\naughty\utn\laboratorio 1\gran cerdo\cerdo_original\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+	"funciones_cerdo_original.h"
+
